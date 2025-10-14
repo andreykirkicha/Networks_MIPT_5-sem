@@ -1,3 +1,4 @@
+🌭
 # Структура
 
 - [**Модель OSI**](https://github.com/andreykirkicha/Networks_MIPT_5-sem/tree/main/1.%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%20OSI)
@@ -26,4 +27,5 @@
 - [19. LAG](https://github.com/andreykirkicha/Networks_MIPT_5-sem/blob/main/19.%20LAG.pdf)
 - [20. NAT и PAT](https://github.com/andreykirkicha/Networks_MIPT_5-sem/blob/main/20.%20NAT%20%D0%B8%20PAT.pdf)
 - [21. OSPF](https://github.com/andreykirkicha/Networks_MIPT_5-sem/blob/main/21.%20OSPF.pdf)
+
 - [22. Tunnel. VPN](https://github.com/andreykirkicha/Networks_MIPT_5-sem/blob/main/22.%20Tunnel.%20VPN.pdf)
